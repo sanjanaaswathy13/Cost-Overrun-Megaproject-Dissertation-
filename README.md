@@ -42,6 +42,4 @@ Implemented in Python 3.13.15, with scikit-learn 1.6.1, XGBoost 3.4.1 and SHAP 0
 3. Run `Modelling_2.ipynb` for the RQ2 model comparison.
 4. Run `shap_rq3_colab.py` for the RQ3 SHAP attribution.
 
-## Citing this repository
 
-Aswathy, S.D. (2026) *cost-overrun-ml-megaprojects* [Source code]. GitHub. Available at: [repository URL] (Accessed: [date]).
